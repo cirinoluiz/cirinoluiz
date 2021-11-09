@@ -2,8 +2,7 @@
 
 - 🔭 No momento estou apenas estudando
 - 🌱 Estudando tecnologias para me desenvolver como Data Scientist
-- Python...
-- 💬 Sobre mim: 
+- 💬 Sobre mim: tenho 24 anos, natural de Lagoa Vermelha-RS. Estou me desenvolvendo para trabalhar na área de Data Science! A jornada estará sendo atualizada diariamente aqui neste perfil do Github ;) Acompanhe! :D
 - 📫 Como me encontrar: luiz.antoniocirino@gmail.com
 
 <div>
