@@ -2,7 +2,7 @@
 
 - 🔭 No momento estou apenas estudando
 - 🌱 Estudando tecnologias para me desenvolver como Data Scientist
-- 💬 Sobre mim: tenho 24 anos, natural de Lagoa Vermelha-RS. Estou me desenvolvendo para trabalhar na área de Data Science! A jornada estará sendo atualizada diariamente aqui neste perfil do Github ;) Acompanhe! :D
+- 💬 Sobre mim: tenho 26 anos, natural de Lagoa Vermelha-RS. Estou me desenvolvendo para trabalhar na área de Data Science! A jornada será atualizada aqui neste perfil do Github ;) Acompanhe! :D
 - 📫 Como me encontrar: luiz.antoniocirino@gmail.com
 
 <div>
@@ -15,10 +15,8 @@
 </div>
  
 <div> 
-  <a href="https://instagram.com/cirinoluizz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatoluizcirino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/1luizc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luiz.antoniocirino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/cirinoaluiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/cirinoluiz/cirinoluiz/blob/output/github-contribution-grid-snake.svg)
   
 </div>
